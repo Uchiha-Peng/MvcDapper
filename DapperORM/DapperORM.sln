@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperORM", "DapperORM\DapperORM.csproj", "{76D87EF9-EA99-4F3C-B1AA-056761225170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D87EF9-EA99-4F3C-B1AA-056761225170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D87EF9-EA99-4F3C-B1AA-056761225170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D87EF9-EA99-4F3C-B1AA-056761225170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D87EF9-EA99-4F3C-B1AA-056761225170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {241F007B-533B-4AE4-9F3D-7E612A5AB320}
+	EndGlobalSection
+EndGlobal
